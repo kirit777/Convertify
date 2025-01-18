@@ -24,7 +24,7 @@ Convertify is a feature-rich unit converter app built using SwiftUI, designed to
 
 ## Installation:
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/Convertify.git`
+   `git clone https://github.com/kirit777/Convertify.git`
    
 2. Open the project in Xcode.
 
