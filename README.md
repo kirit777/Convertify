@@ -21,6 +21,11 @@ Convertify is a feature-rich unit converter app built using SwiftUI, designed to
 - **Lightweight and Efficient**: Built to be fast and responsive, Convertify is optimized to work efficiently even on older devices.
 
 - **Modern Design**: With the latest SwiftUI framework, the app features a modern design and smooth animations for all interactions.
+- **Screenshot**
+  ![GridArt_20250118_163919421](https://github.com/user-attachments/assets/0fd491f3-e4a7-4d0f-8816-ceb35dba79f0)
+
+![GridArt_20250118_164008384](https://github.com/user-attachments/assets/784278fd-9ac6-4adf-9db2-3598aa75934a)
+
 
 ## Installation:
 1. Clone the repository:  
