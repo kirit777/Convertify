@@ -1,0 +1,443 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		316F209A2D379297001102B7 /* LengthConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20992D379295001102B7 /* LengthConvertCalculatorView.swift */; };
+		316F209C2D379330001102B7 /* WeightConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F209B2D379330001102B7 /* WeightConvertCalculatorView.swift */; };
+		316F209E2D37937E001102B7 /* VolumeConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F209D2D37937D001102B7 /* VolumeConvertCalculatorView.swift */; };
+		316F20A02D3793B1001102B7 /* AreaConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F209F2D3793B0001102B7 /* AreaConvertCalculatorView.swift */; };
+		316F20A22D3793E3001102B7 /* TemperatureConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20A12D3793E2001102B7 /* TemperatureConvertCalculatorView.swift */; };
+		316F20A42D379427001102B7 /* SpeedConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20A32D379426001102B7 /* SpeedConvertCalculatorView.swift */; };
+		316F20A62D379450001102B7 /* TimeConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20A52D37944F001102B7 /* TimeConvertCalculatorView.swift */; };
+		316F20A82D379481001102B7 /* EnergyConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20A72D379480001102B7 /* EnergyConvertCalculatorView.swift */; };
+		316F20AA2D3794B2001102B7 /* PowerConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20A92D3794B1001102B7 /* PowerConvertCalculatorView.swift */; };
+		316F20AC2D3794D9001102B7 /* AngleConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20AB2D3794D8001102B7 /* AngleConvertCalculatorView.swift */; };
+		316F20AE2D379508001102B7 /* PressureConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20AD2D379508001102B7 /* PressureConvertCalculatorView.swift */; };
+		316F20B02D37953A001102B7 /* FrequencyConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20AF2D379539001102B7 /* FrequencyConvertCalculatorView.swift */; };
+		316F20B22D37956F001102B7 /* CurrencyConvertCalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20B12D37956E001102B7 /* CurrencyConvertCalculatorView.swift */; };
+		316F20B42D379D65001102B7 /* MainDisplatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20B32D379D65001102B7 /* MainDisplatView.swift */; };
+		316F20B62D37AF2D001102B7 /* Custome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316F20B52D37AF2A001102B7 /* Custome.swift */; };
+		318596742D3E6615002D13DC /* SQLCipher in Frameworks */ = {isa = PBXBuildFile; productRef = 318596732D3E6615002D13DC /* SQLCipher */; };
+		31ED55F12D2FB2710023A8D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31ED55EB2D2FB2710023A8D4 /* Preview Assets.xcassets */; };
+		31ED55F22D2FB2710023A8D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31ED55ED2D2FB2710023A8D4 /* Assets.xcassets */; };
+		31ED55F32D2FB2710023A8D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31ED55EE2D2FB2710023A8D4 /* ContentView.swift */; };
+		31ED55F42D2FB2710023A8D4 /* ConvertifyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31ED55EF2D2FB2710023A8D4 /* ConvertifyApp.swift */; };
+		31ED55F62D2FB2770023A8D4 /* SmoothMinimalGridListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31ED55F52D2FB2750023A8D4 /* SmoothMinimalGridListView.swift */; };
+		31FC53FF2D3B767200CC5740 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC53FD2D3B761900CC5740 /* SplashScreen.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		316F20992D379295001102B7 /* LengthConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F209B2D379330001102B7 /* WeightConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeightConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F209D2D37937D001102B7 /* VolumeConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumeConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F209F2D3793B0001102B7 /* AreaConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AreaConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20A12D3793E2001102B7 /* TemperatureConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20A32D379426001102B7 /* SpeedConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20A52D37944F001102B7 /* TimeConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20A72D379480001102B7 /* EnergyConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnergyConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20A92D3794B1001102B7 /* PowerConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20AB2D3794D8001102B7 /* AngleConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngleConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20AD2D379508001102B7 /* PressureConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PressureConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20AF2D379539001102B7 /* FrequencyConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrequencyConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20B12D37956E001102B7 /* CurrencyConvertCalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyConvertCalculatorView.swift; sourceTree = "<group>"; };
+		316F20B32D379D65001102B7 /* MainDisplatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainDisplatView.swift; sourceTree = "<group>"; };
+		316F20B52D37AF2A001102B7 /* Custome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Custome.swift; sourceTree = "<group>"; };
+		31ED55DA2D2FB1B90023A8D4 /* Convertify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Convertify.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		31ED55EB2D2FB2710023A8D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31ED55ED2D2FB2710023A8D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		31ED55EE2D2FB2710023A8D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		31ED55EF2D2FB2710023A8D4 /* ConvertifyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertifyApp.swift; sourceTree = "<group>"; };
+		31ED55F52D2FB2750023A8D4 /* SmoothMinimalGridListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmoothMinimalGridListView.swift; sourceTree = "<group>"; };
+		31FC53FD2D3B761900CC5740 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		31ED55D72D2FB1B90023A8D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				318596742D3E6615002D13DC /* SQLCipher in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		31ED55D12D2FB1B90023A8D4 = {
+			isa = PBXGroup;
+			children = (
+				31ED55F02D2FB2710023A8D4 /* Convertify */,
+				31ED55DB2D2FB1B90023A8D4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		31ED55DB2D2FB1B90023A8D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				31ED55DA2D2FB1B90023A8D4 /* Convertify.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		31ED55EC2D2FB2710023A8D4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				31ED55EB2D2FB2710023A8D4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		31ED55F02D2FB2710023A8D4 /* Convertify */ = {
+			isa = PBXGroup;
+			children = (
+				31FC53FD2D3B761900CC5740 /* SplashScreen.swift */,
+				316F20B52D37AF2A001102B7 /* Custome.swift */,
+				316F20B12D37956E001102B7 /* CurrencyConvertCalculatorView.swift */,
+				316F20AF2D379539001102B7 /* FrequencyConvertCalculatorView.swift */,
+				316F20AD2D379508001102B7 /* PressureConvertCalculatorView.swift */,
+				316F20AB2D3794D8001102B7 /* AngleConvertCalculatorView.swift */,
+				316F20A92D3794B1001102B7 /* PowerConvertCalculatorView.swift */,
+				316F20A72D379480001102B7 /* EnergyConvertCalculatorView.swift */,
+				316F20A52D37944F001102B7 /* TimeConvertCalculatorView.swift */,
+				316F20A32D379426001102B7 /* SpeedConvertCalculatorView.swift */,
+				316F20A12D3793E2001102B7 /* TemperatureConvertCalculatorView.swift */,
+				316F209F2D3793B0001102B7 /* AreaConvertCalculatorView.swift */,
+				316F209D2D37937D001102B7 /* VolumeConvertCalculatorView.swift */,
+				316F209B2D379330001102B7 /* WeightConvertCalculatorView.swift */,
+				316F20992D379295001102B7 /* LengthConvertCalculatorView.swift */,
+				31ED55F52D2FB2750023A8D4 /* SmoothMinimalGridListView.swift */,
+				31ED55EC2D2FB2710023A8D4 /* Preview Content */,
+				31ED55ED2D2FB2710023A8D4 /* Assets.xcassets */,
+				31ED55EE2D2FB2710023A8D4 /* ContentView.swift */,
+				31ED55EF2D2FB2710023A8D4 /* ConvertifyApp.swift */,
+				316F20B32D379D65001102B7 /* MainDisplatView.swift */,
+			);
+			path = Convertify;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		31ED55D92D2FB1B90023A8D4 /* Convertify */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 31ED55E82D2FB1BB0023A8D4 /* Build configuration list for PBXNativeTarget "Convertify" */;
+			buildPhases = (
+				31ED55D62D2FB1B90023A8D4 /* Sources */,
+				31ED55D72D2FB1B90023A8D4 /* Frameworks */,
+				31ED55D82D2FB1B90023A8D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Convertify;
+			packageProductDependencies = (
+				318596732D3E6615002D13DC /* SQLCipher */,
+			);
+			productName = Convertify;
+			productReference = 31ED55DA2D2FB1B90023A8D4 /* Convertify.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		31ED55D22D2FB1B90023A8D4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					31ED55D92D2FB1B90023A8D4 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+				};
+			};
+			buildConfigurationList = 31ED55D52D2FB1B90023A8D4 /* Build configuration list for PBXProject "Convertify" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 31ED55D12D2FB1B90023A8D4;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				318596722D3E6615002D13DC /* XCRemoteSwiftPackageReference "swift-sqlcipher" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 31ED55DB2D2FB1B90023A8D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				31ED55D92D2FB1B90023A8D4 /* Convertify */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		31ED55D82D2FB1B90023A8D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31ED55F12D2FB2710023A8D4 /* Preview Assets.xcassets in Resources */,
+				31ED55F22D2FB2710023A8D4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		31ED55D62D2FB1B90023A8D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				316F20A42D379427001102B7 /* SpeedConvertCalculatorView.swift in Sources */,
+				316F20B42D379D65001102B7 /* MainDisplatView.swift in Sources */,
+				316F209C2D379330001102B7 /* WeightConvertCalculatorView.swift in Sources */,
+				316F20A02D3793B1001102B7 /* AreaConvertCalculatorView.swift in Sources */,
+				316F20B62D37AF2D001102B7 /* Custome.swift in Sources */,
+				31ED55F32D2FB2710023A8D4 /* ContentView.swift in Sources */,
+				31ED55F42D2FB2710023A8D4 /* ConvertifyApp.swift in Sources */,
+				316F209E2D37937E001102B7 /* VolumeConvertCalculatorView.swift in Sources */,
+				316F20B02D37953A001102B7 /* FrequencyConvertCalculatorView.swift in Sources */,
+				316F20AE2D379508001102B7 /* PressureConvertCalculatorView.swift in Sources */,
+				316F20AA2D3794B2001102B7 /* PowerConvertCalculatorView.swift in Sources */,
+				316F20A22D3793E3001102B7 /* TemperatureConvertCalculatorView.swift in Sources */,
+				316F20A82D379481001102B7 /* EnergyConvertCalculatorView.swift in Sources */,
+				316F20AC2D3794D9001102B7 /* AngleConvertCalculatorView.swift in Sources */,
+				31ED55F62D2FB2770023A8D4 /* SmoothMinimalGridListView.swift in Sources */,
+				31FC53FF2D3B767200CC5740 /* SplashScreen.swift in Sources */,
+				316F20A62D379450001102B7 /* TimeConvertCalculatorView.swift in Sources */,
+				316F209A2D379297001102B7 /* LengthConvertCalculatorView.swift in Sources */,
+				316F20B22D37956F001102B7 /* CurrencyConvertCalculatorView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		31ED55E62D2FB1BB0023A8D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		31ED55E72D2FB1BB0023A8D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		31ED55E92D2FB1BB0023A8D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Convertify/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kirit.Convertify;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		31ED55EA2D2FB1BB0023A8D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Convertify/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kirit.Convertify;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		31ED55D52D2FB1B90023A8D4 /* Build configuration list for PBXProject "Convertify" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				31ED55E62D2FB1BB0023A8D4 /* Debug */,
+				31ED55E72D2FB1BB0023A8D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		31ED55E82D2FB1BB0023A8D4 /* Build configuration list for PBXNativeTarget "Convertify" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				31ED55E92D2FB1BB0023A8D4 /* Debug */,
+				31ED55EA2D2FB1BB0023A8D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		318596722D3E6615002D13DC /* XCRemoteSwiftPackageReference "swift-sqlcipher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/skiptools/swift-sqlcipher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		318596732D3E6615002D13DC /* SQLCipher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 318596722D3E6615002D13DC /* XCRemoteSwiftPackageReference "swift-sqlcipher" */;
+			productName = SQLCipher;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 31ED55D22D2FB1B90023A8D4 /* Project object */;
+}
